@@ -74,10 +74,10 @@ if SELF_DELETE == "True":
 
     # Download Tutorial Button #
 DOWNLOAD_TEXT_NAME = "ENJOY THE MOVIE"
-DOWNLOAD_TEXT_URL = "https://t.me/kannada_hunters"
+DOWNLOAD_TEXT_URL = "https://t.me/abcmovies_site"
 
    # Custom Caption Under Button #
 CAPTION_BUTTON = "Subscribe"
-CAPTION_BUTTON_URL = "https://t.me/kannada_hunters"
+CAPTION_BUTTON_URL = "https://t.me/abcmovies_site"
 
    # Auto Delete For Bot Sending Files #
