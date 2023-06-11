@@ -16,11 +16,11 @@ class script(object):
 <i>Aᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴛᴏ sᴇᴇ ᴛʜᴇ ᴍᴀɢɪᴄ ᴏʀ ʀᴇᴀᴅ ᴍᴏʀᴇ ғʀᴏᴍ ᴛʜᴇ ᴍᴇɴᴜ ʙᴇʟᴏᴡ</i>''')
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙷𝙴𝙻𝙿 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
-    ABOUT_TXT = """<b><i>🤖 MY BOSS IS : <a href=https://t.me/yashu1515><b>Kannada Pirates</b></a>\n
-👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/abcmovies_site><b>ABC MOVIES</b></a>\n
-📝 SUPPORT : KANNADA PIRATES \n
+    ABOUT_TXT = """<b><i>🤖 MY BOSS IS : <a href=https://t.me/lazy_developer_ben_bot><b>BEN</b></a>\n
+👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/lazy_developer_ben_bot><b>BEN</b></a>\n
+📝 SUPPORT : Koundinya Movies \n
 📚 WHAT YOU GET : ALL MOVIES AND SERIES\n
-📡 SUBSCRIBE : KANNADA PIRATES\n
+📡 SUBSCRIBE : Koundinya Movies\n
 📢 BOT UPDATES : <a href=https://t.me/abcmovies_site><b></b>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>\n
 🌟 ᴠᴇʀsɪᴏɴ : ᴠ 1\n</b></i>"""
     SOURCE_TXT = """<b>SUPPORT:</b>
