@@ -12,8 +12,8 @@ def is_enabled(value, default):
 
 # Bot information
 SESSION = environ.get('SESSION', 'Media_search')
-API_ID = int(environ.get('API_ID', '20633878'))
-API_HASH = environ.get('API_HASH', 'c53d795343c032533f7bc0ba5384730d')
+API_ID = int(environ.get('API_ID', '22394614'))
+API_HASH = environ.get('API_HASH', '52f13abeb05e7cdbb903adc72088718b')
 BOT_TOKEN = environ.get('BOT_TOKEN', "6150580918:AAFiChBOxPWdmBVQLs3kX2VZChTZZKQq-es")
 
 # Bot settings
@@ -26,14 +26,14 @@ ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ
 CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '0').split()]
 auth_users = [int(user) if id_pattern.search(user) else user for user in environ.get('AUTH_USERS', '1739321854').split()]
 AUTH_USERS = (auth_users + ADMINS) if auth_users else []
-auth_channel = environ.get('AUTH_CHANNEL', '-1001593165558')
+auth_channel = environ.get('AUTH_CHANNEL', '-1001851073757')
 auth_grp = environ.get('AUTH_GROUP')
 AUTH_CHANNEL = int(auth_channel) if auth_channel and id_pattern.search(auth_channel) else None
 AUTH_GROUPS = [int(ch) for ch in auth_grp.split()] if auth_grp else None
 
 # MongoDB information
 DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://jhon:jhonbrave@cluster0.pdf7vm8.mongodb.net/?retryWrites=true&w=majority")
-DATABASE_NAME = environ.get('DATABASE_NAME', "Cluster1")
+DATABASE_NAME = environ.get('DATABASE_NAME', "Cluster2")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Others
