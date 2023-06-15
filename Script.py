@@ -16,11 +16,11 @@ class script(object):
 <i>Aᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴛᴏ sᴇᴇ ᴛʜᴇ ᴍᴀɢɪᴄ ᴏʀ ʀᴇᴀᴅ ᴍᴏʀᴇ ғʀᴏᴍ ᴛʜᴇ ᴍᴇɴᴜ ʙᴇʟᴏᴡ</i>''')
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙷𝙴𝙻𝙿 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
-    ABOUT_TXT = """<b><i>🤖 MY BOSS IS : <a href=https://t.me/lazy_developer_ben_bot><b>BEN</b></a>\n
+    ABOUT_TXT = """<b><i>🤖 MY BOSS IS : <a href=https://t.me/koundinya><b>Koundinya</b></a>\n
 👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/lazy_developer_ben_bot><b>BEN</b></a>\n
-📝 SUPPORT : Koundinya Movies \n
+📝 SUPPORT : <a href=https://t.me/koundinya_moviez><b>Koundinya movies</b></a>\n
 📚 WHAT YOU GET : ALL MOVIES AND SERIES\n
-📡 SUBSCRIBE : Koundinya Movies\n
+📡 SUBSCRIBE : <a href=https://t.me/koundinya_moviez><b>Koundinya movies</b></a>\n
 📢 BOT UPDATES : <a href=https://t.me/abcmovies_site><b></b>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>\n
 🌟 ᴠᴇʀsɪᴏɴ : ᴠ 1\n</b></i>"""
     SOURCE_TXT = """<b>SUPPORT:</b>
